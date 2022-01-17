@@ -1,14 +1,18 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6190096&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-Santos Reyes Educational Technology Plan for Computer Science Principles (CSP). Students will learn the basics of Computer Science programming. This course will prepare 
-students for AP Computer Science.
+Santos Reyes Educational Technology Plan for Computer Science Principles (CSP). 
 
 ## Context
 
 ### Course
+### Computer Science Principles
 
-Computer Science Principes for high school students does not require prerequisite skills utilizing the curriculum on code.org. CSP will 
+Computer Science Principles introduces students to the foundational concepts of computer science and challenges them to explore how computing and technology can impact the
+world. More than a traditional introduction to programming Computer Science Principes for high school students does not require prerequisite skills utilizing the curriculum on 
+code.org. 
+
+Computer Science Principles will be offered to High School students in grades 10-12. 
 focus on High School students in grades 9-12. Describe your course including the name, description, and grade level.
 
 ### Situation
