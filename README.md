@@ -12,21 +12,22 @@ Computer Science Principles introduces students to the foundational concepts of 
 world. More than a traditional introduction to programming Computer Science Principes for high school students does not require prerequisite skills utilizing the curriculum on 
 code.org. 
 
-Computer Science Principles will be offered to High School students in grades 10-12. 
-focus on High School students in grades 9-12. Describe your course including the name, description, and grade level.
+Computer Science Principles will focus on High School students in grades 10-12. 
 
 ### Situation
 
-Currently our school does not offer compueter science course(s). All students are issued Chromebooks. Although student chromebooks are  
-not homogonous and teachers are issued HP laptops. The course will have a mixture of individual and group/team assignments/competitions. 
-english Language learners and Special Education students will be supported by both the teacher, colab teacher, and/or a 
-paraprofessional.
+Currently our schools does not offer any Computer Science courses. In the Middle Schools and High Schools students are issued Hewlett-Packard Chromebooks. Student computers 
+are updated at the beginning of their 10 grade school year. 
+
+The course will have a mixture of individual and group collaboration assignments. English Language Learners, Special Education, and female students will be supported in a
+Teacher collaboration classroom setting. Currently the maximum of 38 students for each class. 
 
 ## Plan
 
 ### Software Specificationss
 
-Starting a new course will require starting with the bare minimimum. Code.org and KhanAcademy.com offers curriculum lessons for free. Aries Gradebook and Google Classroom will be used for learning managment system. 
+Starting a new course will require starting with the bare minimimum. Code.org and KhanAcademy.com offers curriculum lessons for free. Aries Gradebook and Google Classroom will 
+be used for learning managment system. 
 
 Teacher Computer:
 Device: HP Laptop
