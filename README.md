@@ -14,7 +14,7 @@ code.org.
 
 Computer Science Principles will focus on High School students in grades 10-12. 
 
-### Situation
+### *Situation*
 
 Currently our schools does not offer any Computer Science courses. In the Middle Schools and High Schools students are issued Hewlett-Packard Chromebooks. Student computers 
 are updated at the beginning of their 10 grade school year. 
@@ -26,8 +26,8 @@ Teacher collaboration classroom setting. Currently the maximum of 38 students fo
 
 ### Software Specificationss
 
-Starting a new course will require starting with the bare minimimum. Code.org and KhanAcademy.com offers curriculum lessons for free. Aries Gradebook and Google Classroom will 
-be used for learning managment system. 
+Starting a new course, in my district, will require starting with the bare minimimum. Code.org, KhanAcademy.com, & codehs.com offer free curriculum and lessons. Aries 
+Gradebook, Google Classroom, and codehs.com will be used as learning managment system. 
 
 Teacher Computer:
 Device: HP Laptop
