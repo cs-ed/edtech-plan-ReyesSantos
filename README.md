@@ -68,12 +68,11 @@ confident yet.
 
 ### Impacts
 
-Fostering a creative open safe learning environment is Problets, Labs, and/or projects. Based on our deomogrpahics assignments would be 
-limited to inclass. Lessons with increasing the level of difficulty as the basics are developed.
+Fostering a creative open safe learning environment where students can grow. Structure allowing for creativity. 
 
 English Language Learners, Special Education, and female students will be recruited. Support for students can be provided from a Paraprofessional and/or Teacher. I currently 
-teach in a collaboration setting and I have worked with Paraprofessionals.Fostering a safe equitable environment that bases grades on creative solutions to tasks. Encouraging 
-all students regardless of gender 
-or background to perservere through challenges. As the lead I will need to change how I address my students without using gender. 
+teach in a collaboration setting and I have worked with Paraprofessionals. Fostering a safe equitable environment that bases grades on creative solutions to tasks. Encouraging 
+all students regardless of gender or background to perservere through challenges. As the lead I will need to change how I address my students without using gender and create 
+the opportunity for inclusivity. One advantage to using web based resources is it lends itself to distance learning.
 
 
