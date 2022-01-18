@@ -6,28 +6,31 @@ Santos Reyes Educational Technology Plan for Computer Science Principles (CSP).
 ## Context
 
 ### Course
-### Computer Science Principles
+*Computer Science Principles*
 
 Computer Science Principles introduces students to the foundational concepts of computer science and challenges them to explore how computing and technology can impact the
-world. More than a traditional introduction to programming Computer Science Principes for high school students does not require prerequisite skills utilizing the curriculum on 
+world. More than a traditional introduction to programming Computer Science Principes. High school students does not require prerequisite skills for the curriculum on 
 code.org. 
 
 Computer Science Principles will focus on High School students in grades 10-12. 
 
-### *Situation*
+### Situation
 
-Currently our schools does not offer any Computer Science courses. In the Middle Schools and High Schools students are issued Hewlett-Packard Chromebooks. Student computers 
-are updated at the beginning of their 10 grade school year. 
+Currently our school does not offer Computer Science courses. Initially the CSP course would be an elective and build toward a Career Tecnical Education Pathway. The CTE 
+pathway requires additional credentialling. Our District provides Hewlett-Pachard (HP) Chromebooks to Middle School and High School students. Student computers 
+are updated at the beginning of their sophmore year. I don't imagine a homogonous set of student chromebooks.
 
-The course will have a mixture of individual and group collaboration assignments. English Language Learners, Special Education, and female students will be supported in a
-Teacher collaboration classroom setting. Currently the maximum of 38 students for each class. 
+English Language Learners, Special Education, and female students will be recruited. Support for students can be provided from a Paraprofessional and/or Teacher. I currently 
+teach in a collaboration setting and I have worked with Paraprofessionals.
 
 ## Plan
 
 ### Software Specificationss
 
-Starting a new course, in my district, will require starting with the bare minimimum. Code.org, KhanAcademy.com, & codehs.com offer free curriculum and lessons. Aries 
-Gradebook, Google Classroom, and codehs.com will be used as learning managment system. 
+Starting a new course, in my district, will require starting with the bare minimimum. Code.org and codehs.com offer resource and Integrated Development 
+Environment (IDE). Aries Gradebook, Google Classroom, codehs.com, Code.org or Classroom Relay will be used as learning managment system. I use Kahoot, PearDeck, Kami, Google 
+workspace, a projector, document camera, and smart board (Active Inspire) for lesson delivery and engagment. I soon will have an 80" 
+smartTV in the classroom. 
 
 Teacher Computer:
 Device: HP Laptop
@@ -35,13 +38,15 @@ Processor: Intel(R) Core(TM)i5-8365U CPU @ 1.60GHz 1.90 GHz
 Intalled RAM: 16.0 GB (15.8 GB usable)
 System type: 64-bit operating systm, x64-based processor
 
-Student Computer: I need help from our IT for specifics.
-Device: Chromebook
-Processor:
-Intalled RAM: 
+Student Computer: 
+Device: Dell Chromebook
+Processor: Intel(R) Celeron(R) N4020 CPU @ 1.10Ghz
+Intalled RAM: 4 GB
 System type:
 
 ### Hardware Specifications
+There is one ethernet connection in my classroom. Students connect via wifi. There has been connectivity issues prior to Distance Learning. This year internet issues have been 
+mostly district wide. The resources I plan to use are accessible or an email to IT can resolve an issue quickly. 
 
 From Code.org:
 We recommend at least a 15 MBit/sec Internet connection for your school.
@@ -54,14 +59,21 @@ device-specific exceptions.
 
 ### Application
 
-Problets, Labs, and/or projects. Based on our deomogrpahics assignments would be limited to inclass. Lessons with increasing the level 
-of difficulty as the basics are developed.
-
+I can create classes on code.org where students can use the IDE to write, run, and submit coding assignments. I can give feedback to student work through created classes or 
+submit through Google Classroom and use Kami for grading and feedback. Giving students an outline of assignments to keep the same formatting and keeping to the coherance 
+principle. Many of my Autistic students need minimization and keep to the plan. Provide opportunities for Peer Instruction for multiple opportunities for discussion and to 
+revise their approach after hearing others out. I can help them share their screens through Classroom Relay. Pair programming can benefit students who are struggling or not a
+confident yet.
 
 
 ### Impacts
 
-Fostering a safe equitable environment that bases grades on creative solutions to tasks. Encouraging all students regardless of gender 
+Fostering a creative open safe learning environment is Problets, Labs, and/or projects. Based on our deomogrpahics assignments would be 
+limited to inclass. Lessons with increasing the level of difficulty as the basics are developed.
+
+English Language Learners, Special Education, and female students will be recruited. Support for students can be provided from a Paraprofessional and/or Teacher. I currently 
+teach in a collaboration setting and I have worked with Paraprofessionals.Fostering a safe equitable environment that bases grades on creative solutions to tasks. Encouraging 
+all students regardless of gender 
 or background to perservere through challenges. As the lead I will need to change how I address my students without using gender. 
 
 
